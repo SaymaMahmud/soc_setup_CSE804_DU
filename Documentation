@@ -1,0 +1,4 @@
+In this lab, we had to set up SIEM (Security Information and Event Management) step by step. 
+At first, we set Elasticsearch, Kibana, Suricata and Wazuh.
+After a successful installation, we checked the enability status of Elasticssearch and Kibana (The Dashboard).
+We, then, successfully login in with correct validation.
